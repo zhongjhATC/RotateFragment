@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_anim_veritical"
+        android:title="@string/action_anim_v"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_anim_horizontal"
+        android:title="@string/anim_h"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_anim_none"
+        android:title="@string/anim_none"
+        app:showAsAction="never"/>
+</menu>
