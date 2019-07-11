@@ -3,7 +3,8 @@ package com.zhongjh.rotatefragment.base;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
 
-import me.yokeyword.sample.R;
+import com.zhongjh.rotatefragment.R;
+
 
 /**
  * Created by YoKeyword on 16/2/7.

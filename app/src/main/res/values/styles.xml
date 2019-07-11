@@ -33,10 +33,6 @@
 
     <style name="AppTheme.NoActionBar.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
 
-    <style name="AppTheme.NoActionBar.SwipeBack">
-        <item name="android:windowIsTranslucent">true</item>
-    </style>
-
     <style name="tab_appearance">
         <item name="android:textSize">16sp</item>
     </style>
